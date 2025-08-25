@@ -107,7 +107,7 @@ if st.button('Run'):
             # Display predictions
             col19, col20, col21 = st.columns(3)
             with col19:
-                st.write("Removal efficiency (%): ", np.round(abs(YY), 2))
+                st.write("Soil pH following biochar treatment: ", np.round(abs(YY), 2))
 
         except Exception as e:
             st.error(f"Model prediction failed: {e}")

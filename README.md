@@ -1,3 +1,3 @@
-# Heavy Metals in Soil
+# Soil pH following biochar treatment
 
-Machine Learning-Assisted Prediction of Heavy Metal Removal Efficiency Using Biochar
+Machine Learning-Assisted Prediction of soil pH following biochar treatment
